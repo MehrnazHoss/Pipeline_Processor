@@ -1,0 +1,155 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_2020.4/examples
+vALU
+!s110 1750188905
+!i10b 1
+!s100 ma[k9DFlA0_m1;nH0ZozT2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IC25T`mSl4E8mccE2Q@J;M0
+Z1 dD:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor
+w1750188903
+8D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ALU.v
+FD:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ALU.v
+!i122 6
+Z2 L0 1 8
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1750188905.000000
+!s107 D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ALU.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+n@a@l@u
+vDataMemory
+!s110 1750188453
+!i10b 1
+!s100 UHi4IHOZ57b4IYEeSC<W53
+R0
+I:S9TDY942?TPL7hReFe=O1
+R1
+w1750188441
+8D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/DataMemory.v
+FD:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/DataMemory.v
+!i122 2
+L0 1 9
+R3
+R4
+r1
+!s85 0
+31
+!s108 1750188453.000000
+!s107 D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/DataMemory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/DataMemory.v|
+!i113 0
+R5
+R6
+n@data@memory
+vFlushUnit
+!s110 1750188974
+!i10b 1
+!s100 ^<RQmOc=_ZBN8h6o<?`jR1
+R0
+IfTJiPf8?NTf98VU?C[Cl_2
+R1
+w1750188972
+8D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/FlushUnit.v
+FD:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/FlushUnit.v
+!i122 7
+L0 1 6
+R3
+R4
+r1
+!s85 0
+31
+!s108 1750188974.000000
+!s107 D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/FlushUnit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/FlushUnit.v|
+!i113 0
+R5
+R6
+n@flush@unit
+vInstructionMemory
+!s110 1750188472
+!i10b 1
+!s100 BflZeB3HWjhfNE?:?34E`3
+R0
+IF;_R;H:i<[0dB2:]kTWCi1
+R1
+w1750188451
+8D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/InstructionMemory.v
+FD:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/InstructionMemory.v
+!i122 3
+L0 1 5
+R3
+R4
+r1
+!s85 0
+31
+!s108 1750188472.000000
+!s107 D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/InstructionMemory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/InstructionMemory.v|
+!i113 0
+R5
+R6
+n@instruction@memory
+vProgramCounter
+!s110 1750188606
+!i10b 1
+!s100 @<hlMR1a4<eU@]Fi0m[mc0
+R0
+I=hciWehGPgiI_[OZJlE`E3
+R1
+w1750188603
+8D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ProgramCounter.v
+FD:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ProgramCounter.v
+!i122 4
+R2
+R3
+R4
+r1
+!s85 0
+31
+!s108 1750188606.000000
+!s107 D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ProgramCounter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ProgramCounter.v|
+!i113 0
+R5
+R6
+n@program@counter
+vRegisterFile
+!s110 1750188797
+!i10b 1
+!s100 ;k`a1@9foEZJ=cf_aF]QF3
+R0
+IN:9M0MVcdzk=hE1KO7Do43
+R1
+w1750188795
+8D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/RegisterFile.v
+FD:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/RegisterFile.v
+!i122 5
+L0 1 11
+R3
+R4
+r1
+!s85 0
+31
+!s108 1750188797.000000
+!s107 D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/RegisterFile.v|
+!i113 0
+R5
+R6
+n@register@file

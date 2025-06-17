@@ -1,0 +1,5 @@
+module InstructionMemory (
+    input  wire [31:0] adress,
+    output wire [31:0] instruction
+);
+endmodule
