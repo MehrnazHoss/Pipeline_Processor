@@ -81,6 +81,30 @@ r1
 R4
 R5
 n@flush@unit
+vForwardingUnit
+!s110 1750976360
+!i10b 1
+!s100 [CL@@?S7Vmkkobnb?DBX:0
+R0
+I?3ebL_5@dTIRRJ1nmzECi3
+R1
+w1750976175
+8D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ForwardingUnit.v
+FD:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ForwardingUnit.v
+!i122 13
+L0 1 32
+R2
+R3
+r1
+!s85 0
+31
+!s108 1750976360.000000
+!s107 D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ForwardingUnit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ForwardingUnit.v|
+!i113 0
+R4
+R5
+n@forwarding@unit
 vInstructionMemory
 !s110 1750188472
 !i10b 1
