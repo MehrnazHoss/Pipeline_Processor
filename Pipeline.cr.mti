@@ -1,5 +1,9 @@
-{D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/MainControlUnit.v} {1 {vlog -work work -vopt -stats=none {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/MainControlUnit.v}
+{D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/FlushUnit.v} {1 {vlog -work work -vopt -stats=none {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/FlushUnit.v}
 Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FlushUnit
+
+Top level modules:
+	FlushUnit
 
 } {} {}} {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ALU.v} {1 {vlog -work work -vopt -stats=none {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ALU.v}
 Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
@@ -8,21 +12,7 @@ Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
 Top level modules:
 	ALU
 
-} {} {}} {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/FlushUnit.v} {1 {vlog -work work -vopt -stats=none {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/FlushUnit.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module FlushUnit
-
-Top level modules:
-	FlushUnit
-
-} {} {}} {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/DataMemory.v} {1 {vlog -work work -vopt -stats=none {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/DataMemory.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module DataMemory
-
-Top level modules:
-	DataMemory
-
-} {} {}} {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ForwardingUnit.v} {1 {vlog -work work -vopt -stats=none {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ForwardingUnit.v}
+} {} {}} {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/MainControlUnit.v} {1 {vlog -work work -vopt -stats=none {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/MainControlUnit.v}
 Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
 
 } {} {}} {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/InstructionMemory.v} {1 {vlog -work work -vopt -stats=none {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/InstructionMemory.v}
@@ -31,6 +21,9 @@ Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
 
 Top level modules:
 	InstructionMemory
+
+} {} {}} {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ForwardingUnit.v} {1 {vlog -work work -vopt -stats=none {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ForwardingUnit.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
 
 } {} {}} {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ProgramCounter.v} {1 {vlog -work work -vopt -stats=none {D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/ProgramCounter.v}
 Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020

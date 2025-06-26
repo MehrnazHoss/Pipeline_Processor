@@ -130,23 +130,23 @@ R5
 R6
 n@program@counter
 vRegisterFile
-!s110 1750188797
+!s110 1750955809
 !i10b 1
-!s100 ;k`a1@9foEZJ=cf_aF]QF3
+!s100 3lC9RP=5F3[44OoY]^5az0
 R0
-IN:9M0MVcdzk=hE1KO7Do43
+I7OFLG9376[nTR6gSz]0CT0
 R1
-w1750188795
+w1750955782
 8D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/RegisterFile.v
 FD:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/RegisterFile.v
-!i122 5
-L0 1 11
+!i122 9
+L0 1 26
 R3
 R4
 r1
 !s85 0
 31
-!s108 1750188797.000000
+!s108 1750955809.000000
 !s107 D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/RegisterFile.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FUM - UNIVERSITY/4-Computer Architecture/Pipeline Processor/RegisterFile.v|
 !i113 0
